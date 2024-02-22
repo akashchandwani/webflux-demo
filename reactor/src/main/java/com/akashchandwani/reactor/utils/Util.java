@@ -1,6 +1,7 @@
 package com.akashchandwani.reactor.utils;
 
 import com.github.javafaker.Faker;
+import org.reactivestreams.Subscriber;
 
 import java.util.function.Consumer;
 
